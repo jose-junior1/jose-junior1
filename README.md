@@ -11,8 +11,8 @@
   <img align="center" alt="Jose-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Jose-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Jose-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="Jose-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
-<img align="center" alt="Jose-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
+  <img align="center" alt="Jose-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+  <img align="center" alt="Jose-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
 </div>
 
 ##
