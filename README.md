@@ -20,14 +20,14 @@ Atualmente cursando **Engenharia Front-End pela EBAC** e aplicando meus conhecim
 
 ## 🌟 Projetos em Destaque
 
-- [**Agenda de Contatos**](https://github.com/jose-junior1/agenda-contatos)  
-  Gerenciador simples de contatos, feito com HTML, CSS e JavaScript.
+- [**Recanto dos Livros**](https://github.com/jose-junior1/recanto-dos-livros)  
+  Site de uma livraria fictícia utilizando HTML, CSS, Bootstrap e princípios de Responsividade.
 
 - [**J.News**](https://github.com/jose-junior1/j.news)  
-  Um site simples de notícias com HTML e responsividade.
+  Um site de notícias com HTML e CSS (Ainda em desenvolvimento).
 
 - [**Pousada Web**](https://github.com/jose-junior1/pousada-web)  
-  Projeto de site institucional com layout responsivo.
+  Projeto de site simples de uma pousada fictícia, feito com HTML e CSS.
 
 - [Veja todos os projetos aqui](https://github.com/jose-junior1?tab=repositories)
 
