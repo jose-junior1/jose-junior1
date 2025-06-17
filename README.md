@@ -5,6 +5,14 @@ Atualmente cursando **Engenharia Front-End pela EBAC** e aplicando meus conhecim
 
 ---
 
+<div align="center">
+  <a href="https://github.com/jose-junior1">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jose-junior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-junior1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
 ## 🚀 Tecnologias que trabalho
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,8 +24,14 @@ Atualmente cursando **Engenharia Front-End pela EBAC** e aplicando meus conhecim
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
+---
+
+## 🎯 Atualmente aprendendo
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -26,8 +40,8 @@ Atualmente cursando **Engenharia Front-End pela EBAC** e aplicando meus conhecim
 - [**Recanto dos Livros**](https://github.com/jose-junior1/recanto-dos-livros)  
   Site de uma livraria fictícia utilizando HTML, CSS, Bootstrap e princípios de Responsividade.
 
-- [**J.News**](https://github.com/jose-junior1/j.news)  
-  Um site de notícias com HTML e CSS (Ainda em desenvolvimento).
+- [**J.News**](https://github.com/jose-junior1/j.news) *(📌 Em andamento)*  
+  Um site de notícias com HTML e CSS.
 
 - [**Pousada Web**](https://github.com/jose-junior1/pousada-web)  
   Projeto de site simples de uma pousada fictícia, feito com HTML e CSS.
