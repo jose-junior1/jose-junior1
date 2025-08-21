@@ -44,7 +44,6 @@ Desenvolvedor Web Front-End com formação em Análise e Desenvolvimento de Sist
 
 - ✉️ Email: [jose.jj.silva634@gmail.com](mailto:jose.j.j.silva634@gmail.com)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/josejunior-dev](https://www.linkedin.com/in/josejunior-dev)
-- 💻 GitHub: [https://github.com/jose-junior1](https://github.com/jose-junior1)
 - 💼 Portfólio: [https://portfoliojosejuniordev.vercel.app](https://portfoliojosejuniordev.vercel.app)
 
 ---
