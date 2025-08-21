@@ -6,8 +6,8 @@ Desenvolvedor Web Front-End com formação em Análise e Desenvolvimento de Sist
 
 <div align="center">
   <a href="https://github.com/jose-junior1">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jose-junior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-junior1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jose-junior1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-junior1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
