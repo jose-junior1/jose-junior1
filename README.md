@@ -1,6 +1,6 @@
 # Olá! Eu sou o José Junior
 
-Desenvolvedor Web Front-End com formação em Análise e Desenvolvimento de Sistemas, focado na criação de interfaces de usuário responsivas e intuitivas. Com experiência em HTML, CSS, JavaScript, Styled Components e React no desenvolvimento de componentes reutilizáveis. Busco aplicar minhas habilidades para construir soluções digitais eficientes e com excelente experiência de usuário.
+Desenvolvedor Web Front-End com formação em Análise e Desenvolvimento de Sistemas e Engenharia Front-End, focado na criação de interfaces de usuário responsivas e intuitivas. Com experiência em HTML, CSS, JavaScript, Styled Components e React no desenvolvimento de componentes reutilizáveis. Busco aplicar minhas habilidades para construir soluções digitais eficientes e com excelente experiência de usuário.
 
 ---
 
@@ -21,20 +21,20 @@ Desenvolvedor Web Front-End com formação em Análise e Desenvolvimento de Sist
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-8433f5?style=for-the-badge&logo=redux)
-![Redux](https://img.shields.io/badge/-Styled-20232A?style=for-the-badge&logo=styled-components&Color=white)
+![Styled-components](https://img.shields.io/badge/-Styled-20232A?style=for-the-badge&logo=styled-components&Color=white)
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-- [**Recanto dos Livros**](https://github.com/jose-junior1/recanto-dos-livros)  
-  Site de uma livraria fictícia utilizando HTML, CSS, Bootstrap e princípios de Responsividade.
+- [**eFood - e-commerce de restaurantes**](https://github.com/jose-junior1/efood)  
+  E-commerce de restaurantes desenvolvido com React, TypeScript, Styled-components, Redux, RTK Query, Formik, Yup e React Router DOM.
 
+- [**EPLAY - A sua loja de games**](https://github.com/jose-junior1/eplay)  
+  E-commerce de games desenvolvido com React, TypeScript, Styled-components, Redux, RTK Query, Formik, Yup e React Router DOM.
+  
 - [**Minhas Tarefas**](https://github.com/jose-junior1/minhas-tarefas)  
   App de gestão de tarefas com React + Redux.
-
-- [**Nu Juros**](https://github.com/jose-junior1/nu-juros)  
-  Site de simulação de juros por financiamento, ulitilzando HTML, CSS e JavaScript puro.
 
 - [Veja todos os projetos aqui](https://github.com/jose-junior1?tab=repositories)
 
